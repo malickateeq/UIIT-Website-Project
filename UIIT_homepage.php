@@ -35,6 +35,7 @@ University Institute Of Information & Technology
 
 <div class="nav">
 <ul>
+<li> <a href="UIIT_homepage.php"> Home </a> </li>
 <li> <a href="About_UIIT.php"> About UIIT </a> </li>
 <li> <a href="Admissions.php"> Admissions </a> </li>
 <li> <a href="UIIT_login.php"> Log In </a> </li>
@@ -50,7 +51,7 @@ University Institute Of Information & Technology
 <img src="Pics/blur.jpg">
 <div class="img_text">
 
-“UIIT is a place where creative things happen naturally at the intersection of many different disciplines, and such an intersection is where I work and play.”</div>
+ï¿½UIIT is a place where creative things happen naturally at the intersection of many different disciplines, and such an intersection is where I work and play.ï¿½</div>
 </div>
 
 
@@ -102,7 +103,7 @@ Get daily news updates from UIIT Report <br>
 
 <div class="post_card">
 <h1 class="bold_h1"> UIIT Events </h1>
-<p class="sub_h"> What’s happening on campus </p>
+<p class="sub_h"> Whatï¿½s happening on campus </p>
 
 <div class="post_event">
  <div class="post_event_pic"> <img src="pics/atif.jpg"> </div>
